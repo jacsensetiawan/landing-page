@@ -29,6 +29,12 @@ body {
   text-decoration: none;
 }
 
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: bold;
+}
+
 .hero-section {
   display: flex;
   justify-content: space-between;
