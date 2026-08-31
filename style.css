@@ -26,3 +26,8 @@ body {
 .hero-section {
   display: flex;
 }
+
+.hero-section img {
+  width: 500px;
+  height: 200px;
+}
