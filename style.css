@@ -11,7 +11,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 16px 150px;
+  padding: 16px 250px;
 }
 
 .header ul {
@@ -31,6 +31,7 @@ body {
 
 .hero-section {
   display: flex;
+  padding: 0px 250px;
 }
 
 .hero-section img {
