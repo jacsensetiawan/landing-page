@@ -79,6 +79,10 @@ body {
 }
 
 /* information section */
+.info {
+  padding: 24px 250px;
+}
+
 .container-card {
   display: flex;
   justify-content: space-between;
