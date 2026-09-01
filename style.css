@@ -77,3 +77,9 @@ body {
   border: #3882f6;
   border-radius: 10px;
 }
+
+/* information section */
+.info {
+  display: flex;
+  justify-content: space-between;
+}
