@@ -40,7 +40,7 @@ body {
 .hero-section {
   display: flex;
   justify-content: space-between;
-  padding: 140px 250px;
+  padding: 100px 250px;
 }
 
 .hero-section img {
@@ -57,4 +57,6 @@ body {
 
 .hero-section p {
   max-width: 400px;
+  font-size: 18px;
+  color: #e5e7eb;
 }
