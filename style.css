@@ -123,4 +123,14 @@ body {
   display: flex;
   flex-direction: column;
   padding: 100px 250px;
+  background-color: #e5e7eb;
+  align-items: center;
+}
+
+.quotes .content {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
+  max-width: 800px;
 }
