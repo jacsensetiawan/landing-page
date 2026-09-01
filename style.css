@@ -94,12 +94,14 @@ body {
 .container-card {
   display: flex;
   justify-content: space-between;
+  padding: 0;
+  margin: 0;
 }
 
 .card {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: center;
 }
 
 .card img {
@@ -109,6 +111,8 @@ body {
 }
 
 .card p {
-  max-width: 150px;
+  max-width: 200px;
   text-align: center;
+  color: #5c5d60;
+  font-size: 19px;
 }
