@@ -117,3 +117,10 @@ body {
   color: #5c5d60;
   font-size: 19px;
 }
+
+/* quotes section */
+.quotes {
+  display: flex;
+  flex-direction: column;
+  padding: 100px 250px;
+}
