@@ -79,7 +79,7 @@ body {
 }
 
 /* information section */
-.info {
+.container-card {
   display: flex;
   justify-content: space-between;
 }
