@@ -124,7 +124,6 @@ body {
   flex-direction: column;
   padding: 100px 250px;
   background-color: #e5e7eb;
-  align-items: center;
 }
 
 .quotes .content {
@@ -133,4 +132,11 @@ body {
   font-weight: 300;
   font-style: italic;
   max-width: 800px;
+}
+
+.quotes .credit {
+  font-size: 32px;
+  color: #1f2937;
+  font-weight: 600;
+  text-align: right;
 }
