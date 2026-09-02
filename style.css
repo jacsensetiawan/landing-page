@@ -12,7 +12,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 24px 250px;
+  padding: 24px 150px;
 }
 
 .header ul {
@@ -42,7 +42,7 @@ body {
 .hero-section {
   display: flex;
   justify-content: space-between;
-  padding: 100px 250px;
+  padding: 100px 150px;
 }
 
 .hero-section img {
@@ -82,7 +82,7 @@ body {
 
 /* information section */
 .info {
-  padding: 24px 400px;
+  padding: 24px 200px;
 }
 
 .info h2 {
@@ -125,7 +125,7 @@ body {
 .quotes {
   display: flex;
   flex-direction: column;
-  padding: 100px 400px;
+  padding: 100px 200px;
   background-color: #e5e7eb;
 }
 
@@ -153,7 +153,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 100px 250px;
+  margin: 100px 150px;
   padding: 48px 140px;
   background-color: #3882f6;
   border-radius: 10px;
