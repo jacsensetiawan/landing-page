@@ -67,7 +67,8 @@ body {
   margin: 0;
 }
 
-.hero-section button {
+.hero-section button,
+.call button {
   background-color: #3882f6;
   color: white;
   font-size: 17px;
@@ -140,4 +141,13 @@ body {
   color: #1f2937;
   font-weight: 600;
   text-align: right;
+}
+
+/* call section */
+.call {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 250px;
+  padding: 32px 150px;
+  background-color: #3882f6;
 }
